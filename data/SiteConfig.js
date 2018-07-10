@@ -1,12 +1,12 @@
 module.exports = {
   blogPostDir: "posts", // The name of directory that contains your posts.
   lessonsDir: "lessons", // The name of the directory that contains lessons or docs.
-  siteTitle: "it.com Support", // Site title.
+  siteTitle: "IT-Service Support Center", // Site title.
   siteTitleAlt: "Get Help with the IT-Service product suite", // Alternative site title for SEO.
   siteLogo: "/logos/it-pixels-white.svg", // Logo used for SEO and manifest.
   siteUrl: "http://support.it.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Get Help with the IT-Service product suite", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Never fear! Documentation is here.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-82450300-1 ", // GA tracking ID.

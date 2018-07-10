@@ -42,6 +42,7 @@ export default Index
 
 const IndexHeadContainer = styled.div`
   background: ${props => props.theme.brand};
+  color: ${props => props.theme.textLight};
   padding: ${props => props.theme.sitePadding};
   text-align: center;
 `

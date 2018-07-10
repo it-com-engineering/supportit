@@ -6,6 +6,7 @@ const theme = {
   lightGrey: '#F6F6F6',
   darkGrey: '#91a2a3',
   ink: 'black',
+  textLight: 'white',
   errorRed: '#FF6666',
   codeEditBlue: '#2973b7',
   codeEditGreen: '#42b983',
