@@ -4,6 +4,19 @@
 
 # Gatsby Docs Starter 1.0
 
+#### Getting Started
+
+Install Gatsby's command line tool
+
+    npm install --global gatsby-cli
+
+Start a hot-reloading development environment accessible at `localhost:8000`
+    
+    gatsby develop
+    # or npm run develop
+
+For more commands, see the [Gatsby Getting Started Guide](https://www.gatsbyjs.org/docs/)
+
 #### This Project was forked from [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)
 
 A starter skeleton with advanced features for [Gatsby](https://github.com/gatsbyjs/gatsby/).
