@@ -17,6 +17,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-netlify-identity-widget",
     "gatsby-plugin-styled-components",
     {
       resolve: `gatsby-plugin-google-fonts`,
