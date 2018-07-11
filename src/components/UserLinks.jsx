@@ -28,7 +28,7 @@ class UserLinks extends Component {
   render() {
     return (
       <Container className="user-links">
-        <UserIcon href="mailto:info@it.com">
+        <UserIcon href="mailto:support@it.com">
           <MdEmail style={iconStyle} />
         </UserIcon>
       </Container>

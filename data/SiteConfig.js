@@ -18,7 +18,7 @@ module.exports = {
   userLinks: [
     {
       label: "Email",
-      url: "mailto:info@it.com",
+      url: "mailto:support@it.com",
       iconClassName: "fa fa-envelope"
     },
     {
@@ -31,5 +31,5 @@ module.exports = {
   themeColor: "#00A6DC", // Used for setting manifest and progress theme colors.
   backgroundColor: "#00A6DC", // Used for setting manifest background color.
   // TODO: Move this literally anywhere better.
-  toCChapters: ["", "Chapter 1", "Chapter 2"] // Used to generate the Table Of Contents. Index 0 should be blank.
+  toCChapters: ["", "Service IQ", "Agent Access", "Misc"] // Used to generate the Table Of Contents. Index 0 should be blank.
 };

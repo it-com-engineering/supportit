@@ -24,35 +24,31 @@
               ]
             }
           ]
-        },
-        {
-          "title": "1.2 Subchapter",
-          "entries": [
-            {
-              "entry": "./lesson_four.md"
-            }
-          ]
         }
       ]
     },
     {
-      "title": "2. Main Chapter",
-      "chapters": [
-        {
-          "title": "2.1 Subchapter",
-          "entries": [
-            {
-              "entry": "./lesson_five.md"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "3. Main Chapter",
+      "title": "Agent Access",
       "entries": [
         {
-          "entry": "./lesson_six.md"
+          "entry": "./aa_documentation.md"
+        },
+        {
+          "entry": "./aa_known_issues.md"
+        },
+        {
+          "entry": "./aa_release_notes.md"
+        },
+        {
+          "entry": "./aa_coming_soon.md"
+        }
+      ]
+    },
+    {
+      "title": "Misc",
+      "entries": [
+        {
+          "entry": "./solr_query_syntax.md"
         }
       ]
     }
